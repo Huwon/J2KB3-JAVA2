@@ -1,0 +1,71 @@
+#1. 변수 선언과 초기화 학습 코드
+
+	package pjtTest;
+	
+	public class MainClass {
+		public static void main(String[] args) {
+		
+			int i ; //변수 선언
+			i = 10;
+			System.out.println("i = " + i);
+				
+			int j = 20;
+			System.out.println("j = "+ j);
+		}
+	
+	}
+
+##Run 결과
+
+	i = 10  
+	j = 20
+
+
+#2. 변수 데이터 변경 학습 코드(1)
+
+	package pjtTest;
+	
+	public class MainClass {
+		public static void main(String[] args) {
+			
+			int i = 10;
+			
+			int j;
+			
+		    j = 100;
+		    
+		    j = 200;
+		    
+			System.out.println("i + j = " + (i + j));
+		}
+	
+	}
+
+##Run 결과
+
+	i + j = 210;
+
+#3. 변수 데이터 변경 학습 코드(2)
+
+	package pjtTest;
+	
+	public class MainClass {
+		public static void main(String[] args) {
+			
+			int i = 10;
+	    System.out.println("i = " + i);
+			
+	    i = 100;
+	    System.out.println("i = " + i);
+	    
+	    i = 30;
+			System.out.println("i = " + i);
+		}
+	
+	}
+
+##Run 결과
+
+	i = 10
+	i = 100
+	i = 30
