@@ -1,0 +1,19 @@
+package testPjt;
+
+public class MainClass {
+	
+		public static void main(String[] args) {
+			
+			//특수문자
+			
+			/*
+			 ㅁㄴㅇㄹ
+			 */
+			
+			System.out.println("Good\tMorning~");
+			System.out.println("Good\nMorning~");
+			System.out.println("Good\'Morning~\'");
+			System.out.println("Good\"Morning~\"");
+			System.out.println("Good\\Morning~\\");
+		}
+}
