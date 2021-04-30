@@ -28,6 +28,8 @@ https://www.inflearn.com/course/%EC%8B%A4%EC%A0%84-%EC%9E%90%EB%B0%94_java-renew
 - 공동진도 진행사항은 다음과 같습니다.
 
 1️⃣ 4월 17일까지 섹션1-JAVA 기초 문법 수강하기
+
+2️⃣ 5월 1일까지 섹션 2-JAVA 객체 수강하기
   
   
   
